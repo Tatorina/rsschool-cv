@@ -50,7 +50,7 @@ if (field.id === 'field1') {
 
 * Ratio — Программа обучения junior frontend;
 * https://www.youtube.com/c/FreelancerLifeStyle;
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
 
 
 <hr \>
