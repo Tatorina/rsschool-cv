@@ -25,3 +25,24 @@ I am a student of Bauman Moscow State Technical University. I like to cook delic
 
 <hr \>
 
+## Code example:
+
+```
+if (field.id === 'field1') {
+    if (field.value == 42) {
+      printRes("И спасибо за рыбу!", 1);
+    } else if (field.value.trim().length == 0) {
+      field1.classList.add("_error");
+      printRes("null", 1);
+    } else {printRes(field.value, 1)}
+```
+
+<hr \>
+
+## Pet projects:
+
+* https://github.com/Tatorina/Ratio__progects;
+* https://github.com/Tatorina/Marathon_TG.
+
+<hr \>
+
