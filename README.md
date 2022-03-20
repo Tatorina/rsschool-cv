@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Tatorina.github.io/rsschool-cv/cv
