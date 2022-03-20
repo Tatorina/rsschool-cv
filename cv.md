@@ -46,3 +46,17 @@ if (field.id === 'field1') {
 
 <hr \>
 
+## Courses:
+
+* Ratio — Программа обучения junior frontend;
+* https://www.youtube.com/c/FreelancerLifeStyle;
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+
+<hr \>
+
+## Languages:
+
+* Russian - Native;
+* English - Intermediate;
+* German - Basic.
